@@ -12,4 +12,4 @@ Also there is probably SO MUCH WRONG WITH THIS DRIVER. If it contains like 15 RC
 When testing, make sure to to enable testing using `bcdedit /set testsigning on`.
 
 # TODO
-[] Add IOCTLs to the driver
+Add IOCTLs to the driver
