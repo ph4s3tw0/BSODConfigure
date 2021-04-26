@@ -10,3 +10,6 @@ This is super heavy proof of concept, so if it stops working at some point in th
 Also there is probably SO MUCH WRONG WITH THIS DRIVER. If it contains like 15 RCEs I wouldn't be surprised.
 
 When testing, make sure to to enable testing using `bcdedit /set testsigning on`.
+
+# TODO
+[] Add IOCTLs to the driver
