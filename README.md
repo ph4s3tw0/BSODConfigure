@@ -1,7 +1,7 @@
 # BSODConfigure
 A kernel level driver for Windows built to configure the Blue Screen Of Death.
 
-Go see the writeup at https://www.phasetw0.com/configuring_windows_10_bsod
+Go see the writeup at https://phasetw0.com/windows-internals/bsod-configuration/
 
 # Disclaimer
 This was tested on Windows 10 x64 20H2, using UEFI.
